@@ -1,0 +1,76 @@
+[
+    {
+        "name":"Baba Dhaba",
+        "img":"https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category":" FastFood,breakfast,Lunch,Dinner",
+        "cost":"Cost 600 for one",
+        "MinPrice":"50",
+        "MinTime":"Up to 30 min",
+        "Payment_Method":["Accept Online payment only"],
+        "rating":"4.3",
+        "votes":"766",
+        "reviews":"512"
+        
+    },
+    {
+        "name": "Airoplane Restaurent",
+        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
+        "cost": "Cost 800 for one",
+        "MinPrice": "100",
+        "MinTime": "Up to 10 min",
+        "Payment_Method": ["Accept Online payment only"],
+        "rating": "4.3",
+        "votes": "2066",
+        "reviews": "158"
+    },
+    {
+        "name": "Airoplane",
+        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
+        "cost": "Cost 800 for one",
+        "MinPrice": "100",
+        "MinTime": "Up to 40 min",
+        "Payment_Method": "Accept Cash payment only",
+        "rating": "4.3",
+        "votes": "66",
+        "reviews": "1021"
+    },
+    {
+        "name": "Taj Resturent",
+        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
+        "cost": "Cost 550 for one",
+        "MinPrice": "1020",
+        "MinTime": "Up to 30 min",
+        "Payment_Method": "Accept Cash payment only",
+        "rating": "4.3",
+        "votes": "66",
+        "reviews": "1021"
+    },
+    {
+        "name": "Taj Resturent",
+        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
+        "cost": "Cost 550 for one",
+        "MinPrice": "1020",
+        "MinTime": "Up to 30 min",
+        "Payment_Method": "Accept Cash payment only",
+        "rating": "4.3",
+        "votes": "66",
+        "reviews": "1021"
+    },
+    {
+        "name": "Ranu R$3e4sturent",
+        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
+        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
+        "cost": "Cost 550 for one",
+        "MinPrice": "1020",
+        "MinTime": "Up to 30 min",
+        "Payment_Method": "Accept Cash payment only",
+        "rating": "4.3",
+        "votes": "66",
+        "reviews": "1021"
+    }
+
+]

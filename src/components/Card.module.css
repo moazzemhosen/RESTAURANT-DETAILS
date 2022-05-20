@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+.eachdiv{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2);
+    width: 30%;
+    border: 1px solid red;
+}
+img{
+    width: 30%;
+    height: 150px;
+}
+.conten{
+width: 70%;
+}
