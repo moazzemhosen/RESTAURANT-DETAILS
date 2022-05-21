@@ -25,52 +25,33 @@
         "reviews": "158"
     },
     {
-        "name": "Airoplane",
+        "name": "Airoplane Restaurent",
         "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
         "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
         "cost": "Cost 800 for one",
         "MinPrice": "100",
-        "MinTime": "Up to 40 min",
-        "Payment_Method": "Accept Cash payment only",
+        "MinTime": "Up to 10 min",
+        "Payment_Method": [
+            "Accept Online payment only"
+        ],
         "rating": "4.3",
-        "votes": "66",
-        "reviews": "1021"
+        "votes": "2066",
+        "reviews": "158"
     },
     {
-        "name": "Taj Resturent",
+        "name": "Airoplane Restaurent",
         "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
         "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
-        "cost": "Cost 550 for one",
-        "MinPrice": "1020",
-        "MinTime": "Up to 30 min",
-        "Payment_Method": "Accept Cash payment only",
+        "cost": "Cost 800 for one",
+        "MinPrice": "100",
+        "MinTime": "Up to 10 min",
+        "Payment_Method": [
+            "Accept Online payment only"
+        ],
         "rating": "4.3",
-        "votes": "66",
-        "reviews": "1021"
-    },
-    {
-        "name": "Taj Resturent",
-        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
-        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
-        "cost": "Cost 550 for one",
-        "MinPrice": "1020",
-        "MinTime": "Up to 30 min",
-        "Payment_Method": "Accept Cash payment only",
-        "rating": "4.3",
-        "votes": "66",
-        "reviews": "1021"
-    },
-    {
-        "name": "Ranu R$3e4sturent",
-        "img": "https://thumbs.dreamstime.com/b/indian-thali-26440151.jpg",
-        "category": " FastFood,breakfast,JunkFood,Flavoure Tea",
-        "cost": "Cost 550 for one",
-        "MinPrice": "1020",
-        "MinTime": "Up to 30 min",
-        "Payment_Method": "Accept Cash payment only",
-        "rating": "4.3",
-        "votes": "66",
-        "reviews": "1021"
+        "votes": "2066",
+        "reviews": "158"
     }
+    
 
 ]
